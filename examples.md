@@ -1,10 +1,4 @@
----
-title: "Examples"
-slug: "examples"
-hidden: false
-createdAt: "2023-03-20T22:10:05.985Z"
-updatedAt: "2023-04-06T03:03:47.019Z"
----
+
 # Intro
 
 These examples showcase high-level conceptual ideas.  
